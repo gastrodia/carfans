@@ -11,8 +11,8 @@ var keystone = require('keystone');
 
 keystone.init({
 	
-	'name': 'My Site',
-	'brand': 'My Site',
+	'name': 'carfans',
+	'brand': 'carfans',
 	
 	'less': 'public',
 	'static': 'public',
